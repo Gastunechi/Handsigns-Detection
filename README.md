@@ -1,5 +1,5 @@
 # Handsigns-Detection
 
-Lucry
-Deo
+Lucry, 
+Deo, 
 Gaston
